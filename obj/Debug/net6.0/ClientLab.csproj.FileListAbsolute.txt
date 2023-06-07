@@ -1,0 +1,15 @@
+D:\SENAI\UC12\SA2\Atividades\ClientLab\bin\Debug\net6.0\ClientLab.exe
+D:\SENAI\UC12\SA2\Atividades\ClientLab\bin\Debug\net6.0\ClientLab.deps.json
+D:\SENAI\UC12\SA2\Atividades\ClientLab\bin\Debug\net6.0\ClientLab.runtimeconfig.json
+D:\SENAI\UC12\SA2\Atividades\ClientLab\bin\Debug\net6.0\ClientLab.dll
+D:\SENAI\UC12\SA2\Atividades\ClientLab\bin\Debug\net6.0\ClientLab.pdb
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ClientLab.csproj.AssemblyReference.cache
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ClientLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ClientLab.AssemblyInfoInputs.cache
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ClientLab.AssemblyInfo.cs
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ClientLab.csproj.CoreCompileInputs.cache
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ClientLab.dll
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\refint\ClientLab.dll
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ClientLab.pdb
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ClientLab.genruntimeconfig.cache
+D:\SENAI\UC12\SA2\Atividades\ClientLab\obj\Debug\net6.0\ref\ClientLab.dll
